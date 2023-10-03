@@ -1,4 +1,4 @@
-﻿# Demo Calculator TCP
+﻿# Demo Calculator TCP [Async]
 
 ![Screenshot](/img/screen.png)
 
